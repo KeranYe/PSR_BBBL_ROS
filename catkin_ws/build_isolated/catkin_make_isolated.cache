@@ -1,0 +1,2 @@
+edumip_balance_ros:edumip_msgs:psr:turtlebot-kinetic/turtlebot:turtlebot-kinetic/turtlebot_bringup:turtlebot-kinetic/turtlebot_capabilities:turtlebot-kinetic/turtlebot_description:turtlebot-kinetic/turtlebot_teleop
+-G Unix Makefiles -DCATKIN_DEVEL_PREFIX=/home/ubuntu/catkin_ws/devel_isolated -DCMAKE_INSTALL_PREFIX=/home/ubuntu/catkin_ws/install_isolated
